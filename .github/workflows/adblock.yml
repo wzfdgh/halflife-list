@@ -45,7 +45,7 @@ jobs:
           cd ./download
           curl -sSL $EASYLIST_URL | sed -e '/^! /d' -e '1c ! EasyList' -e '/^!$/d' -e '/The End/d' -e '/^$/d' > ./easylist.txt
           # curl -sSL $EASYLISTCHINA_URL | sed -e '/^! /d' -e '1c ! EasyList China' -e '/^!$/d' -e '/The End/d' -e '/^$/d' > ./easylistchina.txt
-          curl -sSL $ADGUARD_CHINESE_FILTER | sed -e '/^! /d' -e '1c ! AdGuard Chinese filter' -e '/^!$/d' -e '/^$/d' > ./adguardchinesefilter.txt
+          curl -sSL $ADGUARD_CHINESE_FILTER | tr -d "\r" | sed -e '/^! /d' -e '1c ! AdGuard Chinese filter' -e '/^!$/d' -e '/^$/d' > ./adguardchinesefilter.txt
           curl -sSL $EASYPRIVACY_URL | sed -e '/^! /d' -e '1c ! EasyPrivacy' -e '/^!$/d' > ./easyprivacy.txt
           curl -sSL $CJXLIST_URL | sed -e '/^! /d' -e '1c ! EasyList Lite' -e '/^!$/d' -e '/The End/d' -e '/^$/d' > ./cjxlist.txt
           curl -sSL $CJX_ANNOYANCE_URL | sed -e '/^! /d' -e "1c ! CJX's Annoyance List" -e '/^!$/d' -e '/The End/d' -e '/^$/d' | sed '/热门话题/,+1d' > ./cjx-annoyance.txt
