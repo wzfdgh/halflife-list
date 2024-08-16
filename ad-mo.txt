@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: x2Cnk7/fo5s9XDPq+405Jg
+! Checksum: RDzlSfVdDbFkba8wd5e1Fw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408151315
-! Last Modified: 2024年08月15日 13:15
+! Version: 202408160847
+! Last Modified: 2024年08月16日 08:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -11773,6 +11773,7 @@ _800x80_
 ##.dfp-ad-container-wide
 ##.dfp-ad-full
 ##.dfp-ad-hideempty
+##.dfp-ad-lazy
 ##.dfp-ad-lead2-wrap
 ##.dfp-ad-lead3-wrap
 ##.dfp-ad-midbreaker-wrap
@@ -16429,7 +16430,7 @@ click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls
 accuweather.com,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com#@#.connatix-player
 huffpost.com#@#.connatix-wrapper
-player.ex.co,theautopian.com#@#.pbs__player
+mm-watch.com,player.ex.co,theautopian.com#@#.pbs__player
 !! ins.adsbygoogle
 advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,teemo.gg,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-client]
 advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,teemo.gg,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-slot]
@@ -23989,6 +23990,7 @@ browsershots.org#@#.advert_area
 ||craharice.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crambidnonutilitybayadeer.com^
 ||crampcrossroadbaptize.com^
 ||crampincompetent.com^
@@ -28183,6 +28185,7 @@ browsershots.org#@#.advert_area
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flotsanrantan.com^
 ||flounderhomemade.com^
@@ -28808,6 +28811,7 @@ browsershots.org#@#.advert_area
 ||fusoidactuate.com^
 ||fusrv.com^
 ||fussy-highway.pro^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -30314,6 +30318,7 @@ browsershots.org#@#.advert_area
 ||halftimestarring.com^
 ||halfwayscratchcoupon.com^
 ||halileo.com^
+||hallanjerbil.com^
 ||hallucinatecompute.com^
 ||hallucinatediploma.com^
 ||hallucinatepromise.com^
@@ -31558,6 +31563,7 @@ browsershots.org#@#.advert_area
 ||idthecharityc.info^
 ||idwystdnvb.com^
 ||idydlesswale.info^
+||idyllteapots.com^
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||iebsmqevw.com^
@@ -39391,6 +39397,7 @@ browsershots.org#@#.advert_area
 ||panisicelectre.top^
 ||pannamdashee.com^
 ||pannumregnal.com^
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpant.xyz^
 ||pansymerbaby.com^
@@ -42325,6 +42332,7 @@ browsershots.org#@#.advert_area
 ||rashlyblowfly.com^
 ||raspberryamusingbroker.com^
 ||raspedexsculp.com^
+||rasurescaribou.com^
 ||ratcovertlicence.com^
 ||ratebilaterdea.com^
 ||rategruntcomely.com^
@@ -43159,6 +43167,7 @@ browsershots.org#@#.advert_area
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||riflesurfing.xyz^
 ||riftharp.com^
@@ -44975,6 +44984,7 @@ browsershots.org#@#.advert_area
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
@@ -51954,6 +51964,7 @@ browsershots.org#@#.advert_area
 ||zaikasoatie.xyz^
 ||zailoanoy.com^
 ||zaimads.com^
+||zaipousu.net^
 ||zaistaug.net^
 ||zajukrib.net^
 ||zaltaumi.net^
@@ -52221,6 +52232,7 @@ browsershots.org#@#.advert_area
 ||zougreek.com^
 ||zoukooso.com^
 ||zouloafi.net^
+||zoustara.net^
 ||zoutubephaid.com^
 ||zoutufoostou.com^
 ||zouzougri.net^
@@ -62053,7 +62065,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sonar.viously.com^$domain=~aufeminin.com|~futura-sciences.com|~marmiton.org|~melty.fr|~nextplz.fr
 ||sportrecs.com/redirect/embed/
 ||startpage.com/sp/PsVHP/
-||tldw.me^$third-party
 ||ultimedia.com/js/common/smart.js$script,third-party
 ||vidazoo.com/basev/$script,third-party
 ||video-streaming.ezoic.com^
@@ -62994,6 +63005,7 @@ canadianlisted.com###adcsacl
 4qrcode.com###addContainer
 odditycentral.com###add_160x600
 lifenews.com###adds
+livemint.com###adfreeDeskSpace
 seowebstat.com###adhead-block
 freepik.com###adobe-pagination-mkt-copy
 onworks.net###adonworksbot
@@ -64170,6 +64182,7 @@ seattletimes.com##.H0FqVZjh86HAsl61ps5e
 naturalnews.com##.HALFBYEISCRJ
 metservice.com##.Header
 planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
+news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 games.washingtonpost.com##.HomeCategory__ads___aFdrmx_3
 mope.io##.Home__home-ad-wrapper
 semiconductor-today.com##.Horiba-banner
@@ -65147,6 +65160,7 @@ sbenny.com##.btnDownload5
 pollunit.com##.btn[href$="?feature=ads"]
 youloveit.com##.btop
 lifestyleasia.com##.btt-top-add-section
+livemint.com##.budgetBox
 business-standard.com##.budgetWrapper
 bulinews.com##.bulinews-ad
 frankspeech.com##.bunny-banner
@@ -65225,6 +65239,7 @@ speakerdeck.com##.carbon-container
 buzzfeed.com##.card--article-ad
 u.today##.card--something-md
 nrl.com##.card-content__sponsor
+thepointsguy.com##.cardWidget
 devdiscourse.com##.carousel
 eetimes.com##.carousel-ad-wrapper
 faroutmagazine.co.uk,hitc.com##.carpet-border
@@ -65272,7 +65287,7 @@ letras.com##.cnt-space-top
 groceries.asda.com##.co-product-dynamic
 asda.com##.co-product-list[data-module-type="HookLogic"]
 map.riftkit.net##.coachify_wrapper
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freefontsfamily.net,freemagazines.top,gadgetinsiders.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,firstcuriosity.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freefontsfamily.net,freemagazines.top,gadgetinsiders.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 storytohear.com,thefamilybreeze.com,thetravelbreeze.com,theworldreads.com,womensmethod.com##.code-block > center p
 cookingwithdog.com,streamtelly.com##.code-block-1
 patriotnewsfeed.com##.code-block-4
@@ -67018,7 +67033,6 @@ indianexpress.com##.rhs-banner-carousel
 cnbctv18.com##.rhs-home-second-ad
 firstpost.com##.rhs-tp-ad
 dailyo.in##.rhsAdvertisement300
-livemint.com##.rhsWidgetNotAdFree
 moneycontrol.com##.rhs_banner_300x34_widget
 siteslike.com##.rif
 terminal.hackernoon.com##.right
@@ -67040,6 +67054,7 @@ boomlive.in##.right_ad_4
 gamemodding.com##.right_banner
 softicons.com##.right_ga
 thehansindia.com##.right_level_7
+livemint.com##.rightblockAd
 footballdb.com##.rightcol_ad
 smartasset.com##.riklam-container
 ip.sb##.rivencloud_ads
@@ -67656,7 +67671,6 @@ adsoftheworld.com,futurism.com##.tracking-widest
 bincodes.com##.transferwise
 sun-sentinel.com##.trb_sf_hl
 coinmarketcap.com##.trending-sponsored
-livemint.com##.trendingSimilarHeight
 iflscience.com##.trendmd-container
 naturalblaze.com##.trfkye8nxr
 thumbsnap.com##.ts-blurb-wrap
@@ -68466,6 +68480,7 @@ amishamerica.com##a[rel="nofollow"] > img
 gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
 nslookup.io,unsplash.com##a[rel^="sponsored"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
+classicstoday.com##a[target="_blank"][rel="noopener"] > img
 abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,ntvid.online,oceanplay.xyz,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 kroger.com##a[title^="Advertisement:"]
 rottentomatoes.com##ad-unit
@@ -70939,7 +70954,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||cdn.adsninja.ca^$domain=xda-developers.com
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bidder.dev/clients/$script,domain=forces.net
-@@||cdn.ex.co^$domain=theautopian.com
+@@||cdn.ex.co^$domain=mm-watch.com|theautopian.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||chycor.co.uk/cms/advert_search_thumb.php$image,domain=chycor.co.uk
 @@||clients.plex.tv/api/v2/ads/$~third-party
@@ -71061,7 +71076,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||pjtra.com/b/$image,domain=extrarebates.com
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
-@@||player.ex.co/player/$script,domain=theautopian.com
+@@||player.ex.co/player/$script,domain=mm-watch.com|theautopian.com
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party
 @@||pngimg.com/distr/$image,~third-party
@@ -76004,6 +76019,8 @@ newduba.cn###jq_youxi
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -91671,7 +91688,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cfff.net^$third-party
 ||chnci.com^$third-party
 ||chong-wu.net^
-||chunyuqiufeng.com^
+||chunyuqiufeng.com^$third-party
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^
