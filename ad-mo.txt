@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JC6Qoi3yH7KklO4y8/rg0w
+! Checksum: Y0ctlVuyEdRQed05ZOs3xg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408230848
-! Last Modified: 2024年08月23日 08:48
+! Version: 202408240846
+! Last Modified: 2024年08月24日 08:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -25247,6 +25247,7 @@ browsershots.org#@#.advert_area
 ||dinnercreekawkward.com^
 ||dinomicrummies.com^
 ||dinseegny.com^
+||diosminlissome.com^
 ||dioxidtoluyls.com^
 ||diplic.com^
 ||diplnk.com^
@@ -26011,6 +26012,7 @@ browsershots.org#@#.advert_area
 ||duellosheliced.com^
 ||duesirresponsible.com^
 ||duetads.com^
+||dufflesmorinel.com^
 ||dufjgdjeyo.com^
 ||dufrom.com^
 ||duftoagn.com^
@@ -26547,6 +26549,7 @@ browsershots.org#@#.advert_area
 ||ehqdzqi.com^
 ||ehrydnmdoe.com^
 ||eicbgbnbvjf.com^
+||eidoscruster.com^
 ||eiewwepb.com^
 ||eighteenderived.com^
 ||eighteenprofit.com^
@@ -27255,6 +27258,7 @@ browsershots.org#@#.advert_area
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
@@ -27851,6 +27855,7 @@ browsershots.org#@#.advert_area
 ||femsurgo.com^
 ||fenacheaverage.com^
 ||fencerecollect.com^
+||fencersdatcha.com^
 ||fenddiscourse.com^
 ||feneverybodypsychological.com^
 ||fenixm.com^
@@ -29580,6 +29585,7 @@ browsershots.org#@#.advert_area
 ||gloogeed.xyz^
 ||gloognoogrix.com^
 ||gloogruk.com^
+||gloohozedoa.xyz^
 ||gloolrey.com^
 ||glooltoora.net^
 ||gloomfabricgravy.com^
@@ -29871,6 +29877,7 @@ browsershots.org#@#.advert_area
 ||gowspow.com^
 ||gpcrn.com^
 ||gpfaquowxnaum.xyz^
+||gpibcoogfb.com^
 ||gpiyzwt.com^
 ||gplansforourcom.com^
 ||gplgqqg.com^
@@ -30348,6 +30355,7 @@ browsershots.org#@#.advert_area
 ||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
+||habutaeirisate.com^
 ||habutaeunroost.com^
 ||hadajvqpha.com^
 ||hadfrizzprofitable.com^
@@ -34475,6 +34483,7 @@ browsershots.org#@#.advert_area
 ||leansometime.com^
 ||leanunderstatement.com^
 ||leanwhitepinafo.org^
+||leapcompatriotjangle.com^
 ||leapretrieval.com^
 ||learningcontainscaterpillar.com^
 ||learningproportion.com^
@@ -43078,6 +43087,7 @@ browsershots.org#@#.advert_area
 ||resignedcamelplumbing.com^
 ||resignedsauna.com^
 ||resinherjecling.com^
+||resinkaristos.com^
 ||resionsfrester.com^
 ||resistanceouter.com^
 ||resistcorrectly.com^
@@ -47886,6 +47896,7 @@ browsershots.org#@#.advert_area
 ||tournamentfosterchild.com^
 ||tournamentsevenhung.com^
 ||touroumu.com^
+||toutsneskhi.com^
 ||touzia.xyz^
 ||tovanillitechan.com^
 ||tovespiquener.com^
@@ -50790,6 +50801,7 @@ browsershots.org#@#.advert_area
 ||wilfridjargonby.com^
 ||wilfulknives.com^
 ||wilfulsatisfaction.com^
+||wililylaus.com^
 ||williamfaxarts.com^
 ||williamporterlilac.com^
 ||williednb.com^
@@ -52240,6 +52252,7 @@ browsershots.org#@#.advert_area
 ||zebjlmmejbybz.top^
 ||zebjlmmejbzlb.top^
 ||zebrinanoteman.top^
+||zebusentour.com^
 ||zedoaryrejects.com^
 ||zedxknzlwyofh.com^
 ||zeebaith.xyz^
@@ -53998,6 +54011,7 @@ browsershots.org#@#.advert_area
 ||influads.com^$third-party
 ||infolinks.com^$third-party
 ||infostation.digital^$third-party
+||ingage.tech^$third-party
 ||innity.com^$third-party
 ||innovid.com^$third-party
 ||insideall.com^$third-party
@@ -56053,6 +56067,7 @@ browsershots.org#@#.advert_area
 ||ever8trk.com^$popup
 ||ewesmedia.com^$popup
 ||ewhareey.com^$popup
+||ewogloarge.com^$popup
 ||ewoodandwaveo.com^$popup
 ||exaltationinsufficientintentional.com^$popup
 ||exbuggishbe.info^$popup
@@ -60301,6 +60316,7 @@ browsershots.org#@#.advert_area
 ||d1mbgf0ge24riu.cloudfront.net^
 ||d1mbihpm2gncx7.cloudfront.net^
 ||d1mcwmzol446xa.cloudfront.net^
+||d1muf25xaso8hp.cloudfront.net^
 ||d1my7gmbyaxdyn.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
 ||d1n3aexzs37q4s.cloudfront.net^
@@ -63932,6 +63948,7 @@ forums.golfwrx.com###pb-slot-top
 demap.info###pcad
 shine.cn###pdfModal
 investopedia.com###performance-marketing_1-0
+webnovelworld.org###pfvidad
 premierguitar.com###pg_leaderboard
 tutorialspoint.com###pg_top_ads
 radiocaroline.co.uk###photographsforeverDiv
@@ -66929,6 +66946,7 @@ golfdigest.com##.o-ArticleRecirc
 drivencarguide.co.nz##.o-adunit
 lawandcrime.com,mediaite.com##.o-promo-unit
 afkgaming.com##.o-yqC
+webnovelworld.org##.oQryfqWK
 comicbook.com##.oas
 sentres.com##.oax_ad_leaderboard
 comiko.net##.ob-widget-items-container
@@ -67247,7 +67265,7 @@ dappradar.com##.rankings-ad-row
 rappler.com##.rappler-ad-container
 benzinga.com##.raptive-ad-placement
 wdwmagic.com##.raptive-custom-sidebar1
-atlantablackstar.com,finurah.com##.raptive-ddm-header
+atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
 epicdope.com##.raptive-placeholder-header
 gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
@@ -68894,7 +68912,7 @@ greatandhra.com##div[class^="add"]
 ndtv.com##div[class^="add_"]
 ntdeals.net,psdeals.net,xbdeals.net##div[class^="ads-"]
 dnaindia.com##div[class^="ads-box"]
-unilad.com##div[class^="advert-placeholder_"]
+tyla.com,unilad.com##div[class^="advert-placeholder_"]
 365scores.com##div[class^="all-scores-container_ad_placeholder_"]
 247solitaire.com,247spades.com##div[class^="aspace-"]
 stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
@@ -69603,6 +69621,7 @@ picrew.me##.play-Imagemaker_Footer
 sciencetimes.com##.player
 bossip.com##.player-wrapper-inner
 swimswam.com##.polls-461
+iheart.com##.provider-stn
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
 kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
@@ -76350,6 +76369,14 @@ newduba.cn###jq_youxi
 ||tehxzz.xyz^
 ||wfsmya.xyz^
 ||eacdf119.cn^
+||kewrutd.top^
+||irqaci.xyz^
+||bojyvp.xyz^
+||acewdf118.cn^
+||baijs09.shop^
+||doujs09.shop^
+||nhbprf.xyz^
+||acdrewrf711.cn^
 ||pwfqjp.xyz^
 ||weacdf211.cn^
 ||tufzdj.xyz^
@@ -85167,6 +85194,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||imgclh.com/imgs/2024/08/07/569cfb2f078e0c42.
 ||pfkgl.top/images/*.gif
 ||laowangblog.com^*-ad
+||256856.com/fei-ad/
 szxx.com.cn###A0
 cn.bing.com##.b_bza_pole
 wenxuecity.com##DIV[class^="Inarticle_"]
@@ -85175,6 +85203,7 @@ supercloudsms.com##.container > div > a[id]
 tmioe.com##.singlegg
 kdslife.com###mainRightTopAd
 huya.com##.ab-wrap
+ying35.com#?#table:-abp-has(a[href*="/fei-ad"])
 huya.com#?#.item-pic:-abp-has(>.img-tips)
 hcbbs.com##a[href*="&adid="]
 hcbbs.com###portal_block_3441
@@ -89855,7 +89884,7 @@ chinacsbs.com##a[href^="/plus/view.php?aid="]
 fx112.com##a[href^="/union."]
 jr22.xyz##a[href^="ad."]
 boniu123.cc##a[href^="http"] > img[src*="/bn_"]
-vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
 55188.com##a[href^="http"]:not([href*=".55188."]) > img[src*="/portal/"]
 90oo.com##a[href^="http"]:not([href*=".90oo."]) > img[src*="/tp/"]
@@ -143415,6 +143444,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
+@@||filme.imyfone.com/assets/js/gatrack.js$~third-party
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||forum.djicdn.com/static/js/sensorsdata.min.js$script,domain=forum.dji.com
 @@||friendbuy.com^$domain=butcherbox.com
