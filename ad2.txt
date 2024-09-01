@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cv1KbTXGx9QqN+vsG2H2QA
+! Checksum: 3EZAHDYM+JKx8Wta0NSAPw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202408310850
-! Last Modified: 2024年08月31日 08:50
+! Version: 202409010859
+! Last Modified: 2024年09月01日 08:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -4650,6 +4650,12 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||yfaqgk.xyz^
+||frntzz.xyz^
+||tyaqzjp.icu^
+||xzwtbdtq.xyz^
+||gewqashbwq.fun^
+||dvlith.xyz^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
@@ -4657,6 +4663,10 @@ newduba.cn###jq_youxi
 ||bndxrr.xyz^
 ||iditero.top^
 ||gjmedashb0.fun^
+||lewrutl.top^
+||jditera.top^
+||gbgedashb8.fun^
+||caqreg.xyz^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
@@ -13538,6 +13548,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||abody.39.net^
 ||piaotia.com/scripts/read/style
 szxx.com.cn###A0
+wealwomen.com##div[data-cptid]
 supercloudsms.com##a[style="display: block;"]
 cn.bing.com##.b_bza_pole
 wenxuecity.com##DIV[class^="Inarticle_"]

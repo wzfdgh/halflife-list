@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NkxhKgjPnDfDWmj63xFBUQ
+! Checksum: EXEzSemC8yd9xrtJTENT0w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202408310850
-! Last Modified: 2024年08月31日 08:50
+! Version: 202409010859
+! Last Modified: 2024年09月01日 08:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4650,6 +4650,12 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||yfaqgk.xyz^
+||frntzz.xyz^
+||tyaqzjp.icu^
+||xzwtbdtq.xyz^
+||gewqashbwq.fun^
+||dvlith.xyz^
 ||wxsicu.xyz^
 ||gedashb112.fun^
 ||htxwzp.xyz^
@@ -4657,6 +4663,10 @@ newduba.cn###jq_youxi
 ||bndxrr.xyz^
 ||iditero.top^
 ||gjmedashb0.fun^
+||lewrutl.top^
+||jditera.top^
+||gbgedashb8.fun^
+||caqreg.xyz^
 ||koauq.top^
 ||zrkksps.icu^
 ||ghjedashb6.fun^
@@ -13538,6 +13548,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||abody.39.net^
 ||piaotia.com/scripts/read/style
 szxx.com.cn###A0
+wealwomen.com##div[data-cptid]
 supercloudsms.com##a[style="display: block;"]
 cn.bing.com##.b_bza_pole
 wenxuecity.com##DIV[class^="Inarticle_"]
@@ -27241,6 +27252,7 @@ omni.soundestlink.com$image
 ||g12083144435.co^
 ||g12281228770.co^
 ||g1584674682.co^
+||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
@@ -28286,7 +28298,6 @@ omni.soundestlink.com$image
 ||flx1.com^$third-party
 ||flxpxl.com^$third-party
 ||flyingpt.com^$third-party
-||fmhy.net^$third-party
 ||fndrsp.net^$third-party
 ||followercounter.com^$third-party
 ||footprintdns.com^$third-party
@@ -31366,6 +31377,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.piksel.com^
 ||analytics.pinterest.com^$third-party
 ||analytics.pixels.ai^
+||analytics.plasmic.app^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -31624,6 +31636,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-ds.com/analytics/
 ||cdn.clkmc.com/cmc.js
 ||cdn.one.store/xdomain_cookie.html
+||cdn.ravm.tv^
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.statically.io/gh/opcdn/analytics/main/script.js
 ||cdn.usefathom.com^
@@ -32823,6 +32836,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plista.com/activity
 ||pm.boostintegrated.com^
 ||pmi.flowplayer.com^
+||pn.ybp.yahoo.com/ab/secure/true/imp/
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
@@ -32970,6 +32984,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.logsss.com^
 ||s.pinimg.com/ct/core.js
 ||s.srvsynd.com^
+||s.vibe.co^
 ||sa.scorpion.co^
 ||saasexch.com/bapi/fe/usd/report/
 ||safe-iplay.com/logger
@@ -33244,6 +33259,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
+||tag.pearldiver.io^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
@@ -35291,6 +35307,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||configurator.ecom-mobile-samsung.com/api/logger
 ||connatix.com/scripts/$~third-party
 ||connatix.com/us/google/
+||connect.airfrance.com/ach/api/event^
 ||connecteam.com/bi/api/ReportHit/
 ||consent.ghostery.com/v1.js
 ||consent.trustarc.com/bannermsg?
@@ -35665,10 +35682,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||indeed.com/m/rpc/frontendlogging
 ||indeed.com/rpc/$~xmlhttprequest
 ||indeed.com/rpc/pageload/perf
+||independent.co.uk/iframe/native-cookiesync-frames.html
 ||indiatimes.com/personalisation/logdata/
 ||indiatimes.com/savelogs?
 ||indmetric.rediff.com^
 ||inews.co.uk/rta2/
+||infinityscans.net/api/collect
 ||info.com/pingback
 ||infoq.com/metrics/
 ||informer.com/ajax/article_log.php
@@ -35907,6 +35926,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nid.thetimes.com/prod/sp/nid_sp.js
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
+||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
@@ -35927,7 +35947,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||observe.metarouter.io^
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
-||ok88okg.infinityscans.net^
 ||oklink.com/jsstat/
 ||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
@@ -36121,7 +36140,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||searchiq.co/api/tr?
 ||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
-||services.haaretz.com^
+||services.haaretz.com/ds/impression
 ||servo-report.dvdfab.
 ||sexu.com/api/events
 ||sexu.com/api/ttrack
@@ -36165,6 +36184,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sourcesync.io/analytics
 ||sp.cargurus.co.uk^
 ||sp.ecosia.org^
+||sp.pcoptimum.ca^
 ||sp.welcometothejungle.com^
 ||spanishdict.com/page-view-metadata
 ||spectrum.gettyimages.com^
@@ -36624,6 +36644,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
 ||zoosk.com/cs/tp.png?
+||zumper.com/events
 ://track.opentable.
 ://www.vinted.*/relay/events
 ||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
@@ -73419,6 +73440,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||bukalapak.com/track-external-visit
 ||bukalapak.com/track_external.json
 ||ktracker.kumparan.com^
+||mygostore.com/api/log
 ||t.bukalapak.com^
 ||ta.tokopedia.com/promo/v1/views
 ||tokopedia.com/helios-client/client-log
@@ -73984,6 +74006,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cimri.com/api/pixel
 ||d.haberler.com^
 ||d.sondakika.com^
+||giquhome.com/0/sendEventV2
 ||glami.com.tr/tracker/
 ||h.n11.com^
 ||haberler.com/dinamik/
@@ -73993,11 +74016,15 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hstatstest.hepsiburada.com^
 ||iys.org.tr/mti-popts.js
 ||kunduz.com/kunduzlytics.min.js
+||magnipeople.com/0/sendEventV2
+||olegcassini.com.tr/0/sendEventV2
 ||plausible.elbisebul.com^
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
+||tnspro.com.tr/0/sendEventV2
 ||tracker.blutv.com^
 ||tracker.grupanya.com^
+||womm.com.tr/0/sendEventV2
 |http://r.i.ua^
 |https://r.i.ua^
 ||analytics.cosmonova.net^
@@ -74410,7 +74437,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! adobedtm.com^*_source.min.js
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
 !! adobedtm.com^*-source.min.js
-@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
+@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ihg.com|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|plasticsnews.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 !! adobedtm.com^*/mbox-contents-
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com
 !! adobedtm.com/extensions/
