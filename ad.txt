@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: R9T2OV/hI0apHlbcwd3gmA
+! Checksum: /lCNEbWHzma5HJu2/zbtew
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202409020852
-! Last Modified: 2024年09月02日 08:52
+! Version: 202409030850
+! Last Modified: 2024年09月03日 08:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5094,12 +5094,24 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||nlrsrx.xyz^
+||gbndash2.fun^
+||geqshb22.fun^
+||bghebf.xyz^
+||ctkyom.xyz^
+||ijeujkdhnvb.top^
+||yxvyqyy.icu^
 ||mwqetvn.icu^
 ||g6tgashb.fun^
 ||phjtxx.xyz^
 ||kryeia.xyz^
 ||jianxuzuo.com^
 ||g7ghdash2.fun^
+||mewrutx.top^
+||quwkke.xyz^
+||yuanmengbi.com^
+||fq01.shop^
+||gcddashb3.fun^
 ||saltsleaseholder.com^
 ||yfaqgk.xyz^
 ||frntzz.xyz^
@@ -14001,6 +14013,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||gg.7976.top^
 ||abody.39.net^
 ||piaotia.com/scripts/read/style
+||cenyou.net/wp-content/uploads/1200-200.
 szxx.com.cn###A0
 wealwomen.com##div[data-cptid]
 supercloudsms.com##a[style="display: block;"]
