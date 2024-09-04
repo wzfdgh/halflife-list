@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ee1ilXMy8buhrEMgtKcKwA
+! Checksum: pyh3P7cH8y9rb4iQzohVHA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409030850
-! Last Modified: 2024年09月03日 08:50
+! Version: 202409040851
+! Last Modified: 2024年09月04日 08:51
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1058,7 +1058,6 @@ enews.tw##.gadRightP
 enews.tw##.divADFrame
 enews.tw##div[id^="adFrame"]
 enews.tw##.newsCardForLeftAdGadCode
-bilibili.com#%#//scriptlet('json-prune', 'data.cm_info.ads')
 ||upload.xchina.biz/ad/
 ||xchina.click/upload/*.webp
 ||xchina.co/scripts/push_*.js
@@ -1085,8 +1084,6 @@ le.com#%#//scriptlet('set-constant', 'Object.prototype.noAD', 'true')
 huya.com##a[class^="Ad--"]
 ||photos18.com/images/friend/
 91porna.com##.carousel-container-bottom
-bilibili.com##.container > div.bili-video-card.is-rcmd:not(:has(> *))
-bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-card__skeleton))
 daohang.qq.com##.banner-adv-new
 ifoodie.tw##.ad-right-column-desktop
 ifoodie.tw##.ad-container
@@ -1200,7 +1197,6 @@ klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 phone-book.tw#%#//scriptlet('remove-node-text', 'script', 'yumayishop')
 xiaozhongjishu.com##.apd > a[target="_blank"] > img
 sports.qq.com##.scr-login > .cnxh:has(> .videoDiv #hotvideo)
-search.bilibili.com##.video-list > div.col_3:has(> div.bili-video-card > div.bili-video-card__wrap > a[href*="&csource="])
 creaders.net##div[style="float:left;padding-right:.3em;width:300px;height:250px"]
 iyf.tv##vg-player div.vg-bg
 clickhole.com,lifehacker.com,splinternews.com,avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class]:has(> div[data-ad-unit]:only-child)
@@ -1365,7 +1361,6 @@ csgoob.com#?#div[class^="dark:shadow"]:has(> a[href^="https://www.k7csgo.com/"][
 itblogcn.com#?#.sidebar > div.widget:has(> div.item > aside > div.textwidget > a[href="https://www.itblogcn.com/vultr/t"])
 sto520.com#?#.content > div.book > div[style^="text-align"]:has(> ins.adsbygoogle)
 lihkg.com#?##rightPanel > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[data-post-id] + div:not([data-post-id])
-search.bilibili.com#?#.video-list > div.col_3:has(> div.bili-video-card a[href*="//cm.bilibili.com/"])
 sohu.com#?#.news-wrapper > div.news-box.clear:has(> [data-ad-format])
 military.china.com#$?#.slide_doubleimg > .baiBox { remove: true; }
 zh.moegirl.org.cn#?#.swiper-slide:has(> a[href^="https://m.tb.cn/"])
@@ -1433,8 +1428,6 @@ hao.360.com#?#.cube-container div.cube-mod:has(span.adMark)
 dacota.tw#?#section[class*="widget_text"] > .widget-wrap > .textwidget > div[class^="Zi_ad"]:upward(3)
 dcard.tw#?#div[data-index] > article:contains(贊助活動)
 sharonlife.tw#?##sidebar > div.widget:has(> h4:contains(廣告))
-bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
-bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 v2ex.com#?##Rightbar > div.box:has(> div.inner a[target="_blank"] > img[src*="cdn.v2ex.com/assets/sidebar/"])
 jable.tv#?#div.col-6.col-sm-4.col-lg-12:has(> div.video-img-box > div.img-box > a[href*="?banner="])
 csdn.net#?#aside > div.slide-outer:has(> div.box > div[adsid])
@@ -1556,11 +1549,9 @@ v2rayssr.com##.single-top-html a[target="_blank"] > img
 ||tiao1.cc/static/default/js/loadLM.js
 baidu.com##.afd-ad
 bbs.125.la##.ad-tips
-bilibili.com##.ad-report
 ||laozuo.org/banner/
 nani.baidu.com,ala.baidu.com##.tbui_aside_float_bar + .clearfix
 3czol.com##div[class^="ban_"]
-bilibili.com##.video-page-game-card-small
 iyf.tv##.player-right
 shangyexinzhi.com##.hang-baidu_adv
 shangyexinzhi.com##.advert
@@ -2681,7 +2672,6 @@ wmsj.pw##[class^="asb-"]
 ||336t.com/img/boss/*.gif$domain=wmsj.pw
 sportsplanetmag.com##.adshow
 ||tt1069.com/bbs/page20_top.php
-||api.live.bilibili.com/*/Banner
 csdn.net##li[data-type="ad"]
 csdn.net###footerRightAds
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
@@ -2707,8 +2697,18 @@ netfly.*,netfly.tv##div[class*="tt-"] > a[target="_blank"] > img
 netfly.*,netfly.tv##div[class*="tt-"] > a[target="_blank"] + span.tt-icon-close
 !+ PLATFORM(windows, mac, android)
 /gmu-download.oss-$image,redirect-rule=1x1-transparent.gif,domain=voflix.vip
+bilibili.com##.container > div.feed-card:not(:has(> div > *))
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
-bilibili.com#$?#.bili-video-card > div[class]:only-child:matches-css(before, content: /Adblock/) { remove: true; }
+bilibili.com##.ad-report
+bilibili.com#%#//scriptlet('json-prune', 'data.cm_info.ads')
+bilibili.com##.container > div.bili-video-card.is-rcmd:not(:has(> *))
+bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-card__skeleton))
+search.bilibili.com##.video-list > div.col_3:has(> div.bili-video-card > div.bili-video-card__wrap > a[href*="&csource="])
+search.bilibili.com#?#.video-list > div.col_3:has(> div.bili-video-card a[href*="//cm.bilibili.com/"])
+bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
+bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
+bilibili.com##.video-page-game-card-small
+||api.live.bilibili.com/*/Banner
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
@@ -4655,6 +4655,12 @@ newduba.cn###jq_youxi
 ||ctkyom.xyz^
 ||ijeujkdhnvb.top^
 ||yxvyqyy.icu^
+||yckamq.xyz^
+||trutvnci.top^
+||fpgonuk.icu^
+||fq02.shop^
+||jy04.shop^
+||gjkkdashb4.fun^
 ||mwqetvn.icu^
 ||g6tgashb.fun^
 ||phjtxx.xyz^
@@ -13568,6 +13574,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||abody.39.net^
 ||piaotia.com/scripts/read/style
 ||cenyou.net/wp-content/uploads/1200-200.
+||53bk.com/Baokan/Comja/changepic.
 szxx.com.cn###A0
 wealwomen.com##div[data-cptid]
 supercloudsms.com##a[style="display: block;"]
@@ -25357,6 +25364,7 @@ m.babytree.com##script + a[class]
 /livezilla/server.php?request=track&
 /ljcounter/?d=
 /load_analytics.php
+/loader-wp/static/loader.min.js?
 /loader/counter.js
 /localga.js
 /locotrack.js
@@ -30608,7 +30616,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||non.li^$third-party
 ||phywi.org^$third-party
 ||pingclock.net^$third-party
-||rossel.tech^$third-party
 ||semiocast.com^$third-party
 ||shopimind.com^$third-party
 ||sk1n.fr^$third-party
@@ -33381,7 +33388,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.nopaperforms.com^
 ||track.pricespider.com^
 ||track.qoof.com^
-||track.realtimeboard.com^
 ||track.searchignite.com^
 ||track.searchiq.co^
 ||track.shop2market.com^
@@ -33764,7 +33770,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
-||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -35436,6 +35441,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dubz.live/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
+||duolingo.com/2017-06-30/tracking-status
 ||e.quizlet.com^
 ||e.used.ca/event
 ||e.zg-api.com/event$domain=zillow.com
@@ -72813,7 +72819,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lokalwerben.t-online.de^
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
-||mlm-tracking-service.meinestadt.de^
 ||moviepilot.de/assets/autotrack-
 ||mtb-news.de/metric/
 ||muenchener-stadtplan.com/t.gif
@@ -72839,7 +72844,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||pxc.otto.de^
 ||r.wz.de^
 ||redaktionstest.net/cdn/$ping
-||rem-track.bild.de^
 ||responder.wt.heise.de^
 ||ricardo.ch/api/browser-statistics/
 ||rt.bunte.de^
@@ -73044,7 +73048,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sta.extreme-down.
 ||sta.wawacity.
 ||sta.zone-telechargement.
-||stat.ouedkniss.com^
 ||stats*.credit-cooperatif.coop^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
@@ -73103,7 +73106,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||apilog-web.acfun.cn^
 ||apiwmda.58.com.cn^
 ||applog.yiche.com^
-||audit.qiuwen.net.cn^
 ||autohome.com.cn/impress?
 ||baidu.com/api/bidder/
 ||baidu.com/kan/api/ipLocation
@@ -73259,7 +73261,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sohu.com/pv.js
 ||soufun.com/click/
 ||soufun.com/stats/
-||ssp.hinet.net^
 ||stadig.ifeng.com^
 ||stat-58home.58che.com^
 ||stat.*.v-56.com^
@@ -73312,7 +73313,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||visitorapi.pixplug.in^$domain=pixnet.net
 ||wanmei.com/public/js/stat.js
 ||weather.com.cn/a1.js
-||webstat.kuwo.cn^
 ||weibo.cn/h5logs/
 ||weibo.com/aj/log/
 ||weiyun.com/cgi-bin/tianshu_report
@@ -73354,7 +73354,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||businessinsider.nl^*/tr.php
 ||c.vrt.be^
 ||coolblue.nl/monitoring/
-||ds2.independer.nl^
 ||events.reclamefolder.nl^
 ||expert.nl/daix.js
 ||fd.nl/pixel/
@@ -73364,7 +73363,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||kieskeurig.nl/track-
 ||klik.nrc.nl/ping?
 ||log.rabobank.nl^
-||logs.ggweb.nl^
 ||marktplaats.nl/add_counter_image.
 ||marktplaats.nl/metrics/
 ||marktplaats.nl/px/
@@ -73392,7 +73390,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||t.pzc.nl^$image
 ||t.tubantia.nl^$image
 ||t.vrt.be^
-||tdep.kvk.nl^
 ||tijd.be/fb/?
 ||tijd.be/fb2?
 ||tijd.be/track/
@@ -73596,7 +73593,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||count.upc.rakuten.co.jp^
 ||crank-in.net/assets/common/js/sendpv.js
 ||d-log.asahi.co.jp^
-||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^
 ||d.tv-asahi.co.jp^
 ||daiichi-kamotsu.co.jp/js/google_analytics.js
@@ -73726,7 +73722,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||log.zdnet.co.kr^
 ||naver.com/jackpotlog/
 ||naver.com/PostView.nhn?$image
-||nil.naver.com^
 ||nlog.naver.com^
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
@@ -73766,7 +73761,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||lrytas.lt/counter/
 ||event-tracking.hellohealthgroup.com^
 ||propertyguru.com.my/api/consumer/vast-media/impression?
-||click.vgnett.no^
 ||data.nrk.no^
 ||nrk.no^*/stats/
 ||stats.proff.no^
@@ -73964,7 +73958,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||aemet.es/js/stats.js
 ||analytics.bolavip.com^
 ||analytics.emol.com^
-||analytics.infobae.com^
 ||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
 ||bankinter.com/res/img/documento_cargado.gif?
