@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SR3E2e1twrH1P9iZFNLo6A
+! Checksum: QC/h15bR6tEfYS9v61qsjA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409060851
-! Last Modified: 2024年09月06日 08:51
+! Version: 202409070850
+! Last Modified: 2024年09月07日 08:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4539,11 +4539,20 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||azenco.xyz^
+||g11edashb1.fun^
+||lzzqfj.xyz^
+||fppcrl.xyz^
+||dxwksqa.icu^
 ||geddsashb3.fun^
 ||grewash1b.fun^
 ||kzcayec.icu^
 ||tqbrnd.xyz^
 ||udeias.xyz^
+||fq03.shop^
+||jy05.shop^
+||lrutvncl.top^
+||gesvfvfhhb6.fun^
 ||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
@@ -31500,6 +31509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
+||bendingspoonsapps.com/v4/web-events
 ||bento.agoda.com^
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||betano.de^*?btag=$subdocument,third-party
@@ -74181,7 +74191,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|ip-address.cc|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
-@@||maxmind.com^*/geoip2.js$domain=bandai-hobby.net|boostedboards.com|donorschoose.org|driftinnovation.com|fallout4.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
+@@||maxmind.com^*/geoip2.js$domain=bandai-hobby.net|boostedboards.com|donorschoose.org|driftinnovation.com|fallout4.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|tama.com|teslamotors.com
 @@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||mclo.gs/js/logview.js$~third-party
 @@||metrics.bangbros.com/tk.js$~third-party
