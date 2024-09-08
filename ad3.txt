@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QC/h15bR6tEfYS9v61qsjA
+! Checksum: IX5yYSHdnkNVt+uxadrrtQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409070850
-! Last Modified: 2024年09月07日 08:50
+! Version: 202409080855
+! Last Modified: 2024年09月08日 08:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4539,11 +4539,18 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||mlcbgw.xyz^
+||dsad234.fun^
 ||azenco.xyz^
 ||g11edashb1.fun^
 ||lzzqfj.xyz^
 ||fppcrl.xyz^
 ||dxwksqa.icu^
+||yuqmok.xyz^
+||212ehae.fun^
+||brutvncv.top^
+||dsaewew21.fun^
+||diendh.xyz^
 ||geddsashb3.fun^
 ||grewash1b.fun^
 ||kzcayec.icu^
@@ -36185,6 +36192,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.streamdav.com^
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
+||stats.chromatone.center^
 ||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
@@ -74419,6 +74427,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! tag.aticdn.net
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 !! cdn.optimizely.com/public
+@@||cdn-pci.optimizely.com/public/*/sales_snippet.js$domain=talktalk.co.uk
 @@||cdn.optimizely.com/public/*.json/tag.js$domain=mobile.de
 !! omtrdc.net
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
