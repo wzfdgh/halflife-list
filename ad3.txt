@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IX5yYSHdnkNVt+uxadrrtQ
+! Checksum: SCkGy3wPQEN1rLazxLhdDw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202409080855
-! Last Modified: 2024年09月08日 08:55
+! Version: 202409090853
+! Last Modified: 2024年09月09日 08:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4541,6 +4541,19 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||mlcbgw.xyz^
 ||dsad234.fun^
+||geewdashb3.fun^
+||ljbrbz.xyz^
+||mrutvncx.top^
+||dsdsg44.fun^
+||uuajq.top^
+||ttdpxh.xyz^
+||pjcijbv.icu^
+||yxamkm.xyz^
+||gessdashb6.fun^
+||fq04.shop^
+||jy06.shop^
+||rewrwrt4.fun^
+||poiejdhmkjcnd.top^
 ||azenco.xyz^
 ||g11edashb1.fun^
 ||lzzqfj.xyz^
@@ -24345,6 +24358,7 @@ m.babytree.com##script + a[class]
 /apilog?
 /apmrum.min.js
 /app-measurement?
+/app.php/ads/*
 /appdynamics/adrum-
 /appGoogleTagManager-
 /appinsightor.min.js
@@ -34916,6 +34930,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.cdnstr.com^$third-party
 ||analytics.faprika.net^
 ||analytics.kkb.com.tr^
+||analytics.qushad.com^
 ||analytics.turk.pro^$third-party
 ||c.keltis.com^
 ||collector.wawlabs.com^
@@ -34952,6 +34967,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||4shared.com/js/d1VisitsCounter.4min.js
 ||9gag.com/event/
 ||9gag.com/track/
+||a-da.invideo.io^
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
 ||a.tellonym.me^
@@ -35033,6 +35049,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||anal.doubledouble.top^
 ||analytics-api.dvdfab.
 ||analytics-batch.blitz.gg^
+||analytics-dataplane.invideo.io^
 ||analytics-proxy.springboard.com^
 ||analytics-server.arras.cx^
 ||analytics-tracking.meetup.com^
@@ -35089,7 +35106,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.audio.com/analytics/event
 ||api.channel.io/*/events
+||api.doodle.com/data-layer/track
 ||api.ffm.to/sl/e/$image
+||api.invideo.io/v3/send_analytics_event
 ||api.narrativ.com/favicon.ico
 ||api.streamelements.com/science/
 ||api.takealot.com^$ping
@@ -35221,6 +35240,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
 ||click.nudevista.com^
+||clickindia.com/cimem/ad-post-ajax.php?FormName=browsingHistory
 ||client-log.box.com^
 ||client-metrics.chess.com^
 ||cloudflare.com/_cf/analytics.js
@@ -35423,10 +35443,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-router.olympics.com^
 ||event.platform.autotrader.com.au^
 ||event.platform.tunein.com^
+||eventhub.au01.miro.com/api/stream
+||eventhub.eu01.miro.com/api/stream
+||eventhub.us01.miro.com/api/stream
 ||eventlog.jackpot.de^
 ||events-prod.autolist.com^
 ||events-tracker.deliveroo.net^
 ||events.api.godaddy.com^
+||events.baselime.io^
 ||events.clips4sale.com^
 ||events.framer.com^
 ||events.mercadolibre.com^
@@ -35961,6 +35985,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.archive.
 ||pixel.archivecaslytosk.onion^
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
+||pixel.clutter.com^
 ||pixel.convertize.io^
 ||pixel.facebook.com^
 ||pixel.honestjohn.co.uk^
@@ -36251,12 +36276,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stubhub.com/a/icph
 ||stytch.com/sdk/v1/events
 ||suaurl.com/adblock/js/smarttag.js
+||sudokupad.app/api/event
 ||support.github.com/_event
 ||support.github.com/_stats
 ||support.github.com/session/event
 ||support.github.com/session/user
-||svc.eu01.miro.com/api/stream/
-||svc.us01.miro.com/api/stream/
 ||swarm.video/stats/
 ||szrpr.raen.com^
 ||t.9gag.com^
@@ -36427,6 +36451,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.decido.io^
 ||trk.tirto.id^
 ||trumba.com/et.aspx?
+||trustradius.com/api/v1/pageview
+||trustradius.com/api/v2/collectMetrics
 ||truthsocial.com/instance/innovid.js
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
