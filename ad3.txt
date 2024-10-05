@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KSjSniFFKY8zj3Ignzr5lQ
+! Checksum: XNx+OnV+V86R7KkDbeNXxw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202410040854
-! Last Modified: 2024年10月04日 08:54
+! Version: 202410050853
+! Last Modified: 2024年10月05日 08:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -4593,6 +4593,21 @@ newduba.cn###jq_youxi
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||yfoega.xyz^
+||chooncv.icu^
+||mvcngm.xyz^
+||eaqgsw.xyz^
+||pakaujf.icu^
+||ntpnfyga.icu^
+||prtfpl.xyz^
+||absalomcsa.com^
+||sjezce.xyz^
+||twurseri.top^
+||d2tf0.icu^
+||bedzbu.xyz^
+||baigh8eosmgie02.site^
+||hongi7ie8owiie02.site^
+||loveameng.top^
 ||mgqtcs.xyz^
 ||hhrerv.xyz^
 ||aeryt111.fun^
@@ -4600,6 +4615,9 @@ newduba.cn###jq_youxi
 ||kossog.xyz^
 ||meryt111.fun^
 ||ntiutox.icu^
+||qwursery.top^
+||hauqou.top^
+||qqryt111.fun^
 ##a[href*=".asd257642.com:"]
 ##a[href*=".bjty7.vip"]
 ##a[href*=".hg63222.com"]
@@ -20954,6 +20972,7 @@ smjb.net##div[style*="height: 50%"]
 ||ysxs8.vip/js/play_db.js
 ||zanghaihua.org/js/
 ||zhenben.cc/2000/
+://*.*ryt111.fun/$script,third-party
 ###downdiv > .downcode
 ###gudingweiDiv
 ###my_dp_a
@@ -26839,6 +26858,7 @@ _WebVitalsReporter_
 /wizrocketmail.net/r?$image
 /znsrc.com/c/*$image
 ://2ip.*/member_photo/$third-party
+://cl.melonbooks.co.jp/c/$image
 ://email.*/e/o/
 ://email.*/o/$image
 ://parcel-api.delivery-status.*/open/$image
@@ -36529,6 +36549,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
 ||event.evtm.53.com^
 ||idstatus.sky.com^
+||img2021.navyfederal.org^
 ||imgs.signifyd.com^
 ||mfasa.chase.com/auth/js/jpmc_bb_check.js
 ||olacontent.schwab.com^$script
@@ -72895,6 +72916,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics-gw.games.wanmei.com^
 ||analytics.163.com^
 ||analytics.cnblogs.com^
+||analytics.ifanrusercontent.com^
 ||analytics.oceanengine.com^
 ||analytics.shop.hisense.com^
 ||analytics.yicai.com^
@@ -72908,6 +72930,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||baidu.com^*/ps_default.gif?
 ||banana.le.com^
 ||bc.qunar.com^
+||beacon.cdn.qq.com^
 ||beacon.qq.com^
 ||channel-analysis-js.gmw.cn^
 ||cherry.le.com^
@@ -72969,6 +72992,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
+||log.mgtv.com^
 ||log.mix.sina.com.cn^
 ||log.sina.cn^
 ||log.zongheng.com^
@@ -73973,8 +73997,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||community.brave.com/t/$xmlhttprequest
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||console.statsig.com/_next/$~third-party
-@@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
-@@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||coremetrics.com*/eluminate.js
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html$xmlhttprequest
