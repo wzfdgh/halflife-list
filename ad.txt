@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: eK/5NsCQyHrHsMEjmTfYCA
+! Checksum: Vne6Ixp6eCKTGRNlCAWvCA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202412170849
-! Last Modified: 2024年12月17日 08:49
+! Version: 202412180846
+! Last Modified: 2024年12月18日 08:46
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -511,7 +511,7 @@ news.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 bilibili.com##.ad-report, .ad-floor
 !此规则有效但导致页面加载慢 bilibili.com##.container.is-version8 > .feed-card:has(>div:only-child), .container.is-version8 > .bili-video-card:has(>div:only-child)
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
-||api.bilibili.com/x/web-show/res/loc?pf=$~script
+||api.bilibili.com/x/web-show/res/locs?$~script
 ||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js^$empty
 ||hdslb.com/bfs/cm/cm-sdk/static/js/pc.js^$script
 acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
@@ -5159,6 +5159,11 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||ihearsoh.com^
 ||juutckrt.icu^
+||qtimiyy.top^
+||4jc.icu^
+||screspoy.com^
+||ua2.icu^
+||ttimiyi.top^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
@@ -23631,10 +23636,11 @@ _box_ad_
 ||3dmgame.com/static/image/common/pc_tg3dm.
 ||fc.3dmgame.com^
 !------------------------Specific element hiding rules------------------------!
+bilibili.com#?#.is-rcmd:-abp-has(>div:not(div:-abp-has(div)))
+csdn.net###asideWriteGuide
 haokan.baidu.com##.page-top-rightinfo-popover
 baidu.com##.invoke-app-san-container
 baidu.com##.invoke-app-floating-tips
-bilibili.com##.is-rcmd > div:only-child
 thwiki.cc###a-carousel
 baidu.com##.index-module_drawerHand__aRhcO
 bilibili.com##.extension-tips
@@ -24459,7 +24465,6 @@ m.youku.com##.download
 baidu.com##.download-app-parent
 kdnet.net##.download-bar
 2.taobao.com##.download-layer
-km.com##.downloadApp
 gfan.com##.downs
 taizhou.com.cn##.duilian
 taizhou.com.cn##.duilian2
